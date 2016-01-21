@@ -3,9 +3,9 @@ author: shog
 comments: true
 date: 2013-11-08 20:16:32+00:00
 layout: post
-redirect_from: /2013/11/raised-on-the-net-please-welcome-ana-hevesi-community-manager
-slug: raised-on-the-net-please-welcome-ana-hevesi-community-manager
-title: 'Raised on The ꞌNet: please welcome Ana Hevesi, Community Manager'
+redirect_from: /2013/11/raised-on-the-net-please-welcome-ana-noemi-community-manager
+slug: raised-on-the-net-please-welcome-ana-noemi-community-manager
+title: 'Raised on The ꞌNet: please welcome Ana Noemi, Community Manager'
 wordpress_id: 14192
 tags:
 - company
@@ -19,8 +19,8 @@ Community Management at Stack Exchange is primarily a support role: assist folks
 
 [![](https://i.stack.imgur.com/aEJYem.png)](http://scifi.stackexchange.com/users/19253/ana-hevesi)
 
-**[Ana Hevesi](http://scifi.stackexchange.com/users/19253/ana-hevesi)** was raised in New York and socialized on The Internet as much as in “real life”. She grew to be wildly fascinated with how social norms developed on the web, finding the factors that led people to bond, collaborate or conflict with one another to be endlessly intriguing. She was a drama major at a competitive performing arts high school before studying web design and development in college. Dropping out to pursue a more self-directed path as a programmer, Ana attended events and got to know people within the (then rather small) New York tech community. Her new friends threw a wrench into her dev career plans by repeatedly asking for help in managing their relationships with customers. She was hired as the first community manager at Shapeways, helping designers and engineers share their 3D printing expertise and sell their designs. It was at Shapeways where Ana was first introduced to Stack Exchange, observing with interest our approach to community development. She gained further experience in community management at Nodejitsu, as well as knowledge of running a tech support team and the idiosyncrasies of the JavaScript and Node.js communities.
+**[Ana](http://scifi.stackexchange.com/users/19253/ana-hevesi)** was raised in New York and socialized on The Internet as much as in “real life”. She grew to be wildly fascinated with how social norms developed on the web, finding the factors that led people to bond, collaborate or conflict with one another to be endlessly intriguing. She was a drama major before studying web design and development in college. Dropping out to pursue a more self-directed path as a programmer, Ana attended events and got to know people within the (then rather small) New York tech community. Her new friends threw a wrench into her dev career plans by repeatedly asking for help in managing their relationships with customers. She was hired as the first community manager at Shapeways, helping designers and engineers share their 3D printing expertise and sell their designs. It was at Shapeways where Ana was first introduced to Stack Exchange, observing with interest our approach to community development. She gained further experience in community management at a Node.js-focused hosting company, as well as knowledge of running a tech support team and the idiosyncrasies of open source communities.
 
-Ana has a keen eye for patterns in social interaction, and delights in finding ways to help folks work together more effectively. When she's not working, she can be found hanging out in her Brooklyn neighborhood, finding the weirdest and most fun electronic music, hacking on small projects, organizing developer conferences, or digging into a sci-fi novel or a book about behavioral psych.
+Ana has a keen eye for patterns in social interaction, and delights in finding ways to help folks work together more effectively. When she's not working, she can be found exploring the five boroughs of NY, finding the weirdest and most fun electronic music, hacking on small projects, organizing developer conferences, or digging into a sci-fi novel or a book about behavioral psych.
 
 We're still in the process of [introducing](http://www.youtube.com/watch?v=6Y2nPHYpmXc) Ana to all of our communities, so please join me in giving her a warm welcome when she drops in on yours.
